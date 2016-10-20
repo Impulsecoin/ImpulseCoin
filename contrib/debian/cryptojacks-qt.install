@@ -1,0 +1,5 @@
+Impulsecoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/Impulsecoin-qt.desktop usr/share/applications
+debian/Impulsecoin-qt.protocol usr/share/kde4/services/

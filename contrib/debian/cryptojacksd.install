@@ -1,0 +1,2 @@
+debian/bin/Impulsecoind usr/bin
+src/Impulsecoind usr/lib/Impulsecoin
